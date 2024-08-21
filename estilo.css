@@ -18,10 +18,12 @@ color: aliceblue;
 }
 
 #conteudo {
-    background-color: #ffffff;
+    background-color: whitesmoke;
     padding: 5px;
     text-align: justify;
     border-radius: 15px;
+    font-family: monospace;
+    font-size: 17px;
 }
 
 
